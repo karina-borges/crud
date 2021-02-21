@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Arthur Oliveira",
+      "email": "aoliveira@cod3r.com.br"
+    },
+    {
+      "id": 2,
+      "name": "Julia Maria da Silva",
+      "email": "mjds@empresa.com"
+    },
+    {
+      "name": "Karina Borges",
+      "email": "karina@cuponeria.com.br",
+      "id": 3
+    }
+  ]
+}
